@@ -6,4 +6,4 @@ Detta är slutet på texten
 
 Hej då!
 
-B1 utcheckad
+test med branch1 (b1)
