@@ -5,3 +5,5 @@ Detta är text
 Detta är slutet på texten
 
 Hej då!
+
+B1 utcheckad
